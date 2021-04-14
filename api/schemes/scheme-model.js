@@ -66,6 +66,8 @@ function findSteps(scheme_id) { // EXERCISE C
         }
       ]
   */
+
+      
 }
 
 function add(scheme) { // EXERCISE D
